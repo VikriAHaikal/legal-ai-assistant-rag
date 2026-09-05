@@ -12,7 +12,7 @@ Sistem asisten hukum berbasis kecerdasan buatan (*Large Language Model*) yang di
 
 ## 📸 Demo Preview
 
-![Legal AI Demo](./demo.gif)
+![Legal AI Demo](./demo.mp4)
 > *Sistem mampu melakukan pencarian berbasis vektor ke dokumen hukum aktual dan memberikan jawaban beserta sitasi sumbernya.*
 
 ---
